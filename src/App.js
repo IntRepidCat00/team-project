@@ -16,7 +16,7 @@ function App() {
             src={NazariiImg}
           ></img>
         </div>
-        <div></div>пше
+        <div></div>
         <div></div>
         <div></div>
       </div>
