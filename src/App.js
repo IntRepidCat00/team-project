@@ -3,6 +3,7 @@ import MaxLogo from "./img/max.png";
 import VadymImg from "./image/VadymImg.jpg";
 import "./App.css";
 import NazariiImg from "./img/nazarii-img.webp";
+import YanaLogo from "./img/yanaimg.png";
 function App() {
   return (
     <div className="App">
@@ -33,7 +34,14 @@ function App() {
             src={VadymImg}
           ></img>
         </div>
-        <div></div>
+        <div>
+          <h3>Yana Strilets</h3>
+          <p>Role: Project Manager</p>
+          <img
+            style={{ width: "100px", height: "100px" }}
+            src={YanaLogo}
+          ></img>
+        </div>
       </div>
     </div>
   );
