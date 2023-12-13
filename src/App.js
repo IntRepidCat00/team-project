@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import VadymImg from "./image/VadymImg.jpg";
 import "./App.css";
 
 import NazariiImg from "./img/nazarii-img.webp";
@@ -17,7 +18,14 @@ function App() {
           ></img>
         </div>
         <div></div>
-        <div></div>
+        <div>
+          <h3>Vadym Prosvirov</h3>
+          <p>Role: Developer</p>
+          <img
+            style={{ width: "100px", height: "100px" }}
+            src={VadymImg}
+          ></img>
+        </div>
         <div></div>
       </div>
     </div>
