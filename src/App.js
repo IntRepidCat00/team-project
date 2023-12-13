@@ -1,3 +1,4 @@
+import logo from "./logo.svg";
 import MaxLogo from "./img/max.png";
 import "./App.css";
  
