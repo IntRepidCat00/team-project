@@ -1,4 +1,4 @@
-import logo from "./img/max.png";
+import MaxLogo from "./img/max.png";
 import "./App.css";
  
 function App() {
@@ -12,7 +12,7 @@ function App() {
           <p>Role: UI Designer</p>
           <img
             style={{ width: "100px", height: "100px" }}
-            src={logo}
+            src={MaxLogo}
           ></img>
         </div>
         <div></div>
