@@ -1,9 +1,8 @@
 import logo from "./logo.svg";
+import MaxLogo from "./img/max.png";
 import VadymImg from "./image/VadymImg.jpg";
 import "./App.css";
-
 import NazariiImg from "./img/nazarii-img.webp";
-
 function App() {
   return (
     <div className="App">
@@ -18,6 +17,14 @@ function App() {
           ></img>
         </div>
         <div></div>
+        <div>
+          <h3>Max Romaniuk</h3>
+          <p>Role: UI Designer</p>
+          <img
+            style={{ width: "100px", height: "100px" }}
+            src={MaxLogo}
+          ></img>
+        </div>
         <div>
           <h3>Vadym Prosvirov</h3>
           <p>Role: Developer</p>
